@@ -34,7 +34,7 @@
   <ol>
     <li>Download the code from GitHub by running the following command in your terminal:</li>
   </ol>
-  <pre><code>git clone https://github.com/usman/password-generator-manager.git</code></pre>
+  <pre><code>git clone https://github.com/Mdusmandasthaheer/password-generator-and-manager.git</code></pre>
   <ol start="2">
     <li>Change to the project directory:</li>
   </ol>
